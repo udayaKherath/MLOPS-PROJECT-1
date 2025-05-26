@@ -1,0 +1,7 @@
+venv/
+mlruns/
+logs/
+MLOPS_PROJECT_1.egg-info/ 
+"*.json" 
+winged-pen-427705-u2-345f282760b9.json 
+*.json 
